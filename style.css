@@ -1,0 +1,120 @@
+.note1 {
+    position: absolute;
+    box-sizing: border-box;
+    width: 215px;
+    height: 44.68px;
+    top: 164px;
+    left: 225px;
+    border-radius: 2.79221px;
+    border: 0.698052px solid #848484;
+}
+
+.note2 {
+    position: absolute;
+    box-sizing: border-box;
+    width: 215px;
+    height: 44.68px;
+    top: 222px;
+    left: 225px;
+    border-radius: 2.79221px;
+    border: 0.698052px solid #848484;
+}
+
+.note3 {
+    position: absolute;
+    box-sizing: border-box;
+    width: 215px;
+    height: 44.68px;
+    top: 164px;
+    left: 466px;
+    border-radius: 2.79221px;
+    border: 0.698052px solid #848484;
+}
+
+.button {
+    position: absolute;
+    width: 455px;
+    height: 43.06px;
+    left: 226px;
+    top: 296px;
+    background-color: #FF9511;
+    border-radius: 2.87066px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21.5172px;
+    line-height: 26px;
+    color: #F7F7F7;
+    border: none;
+    bottom: 31.98px;
+}
+
+.paragraph {
+    position: absolute;
+    width: 341px;
+    height: 39px;
+    top: 164px;
+    left: 858px;
+    font: 'Inter';
+    font-weight: 600;
+    font-size: 32.2759px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.paragraph2 {
+    position: absolute;
+    width: 341px;
+    height: 39px;
+    top: 164px;
+    left: 858px;
+    font: 'Inter';
+    font-weight: 600;
+    font-size: 32.2759px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.image {
+    position: absolute;
+    left: 960.98px;
+    right: 356.02px;
+    top: 265px;
+    bottom: 268.02px;
+}
+
+.image2 {
+    position: absolute;
+    left: 960.98px;
+    right: 356.02px;
+    top: 265px;
+    bottom: 268.02px;
+}
+
+.result {
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 923px;
+    top: 396px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32.2759px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.result2 {
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 923px;
+    top: 396px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32.2759px;
+    line-height: 39px;
+    color: #000000;
+}
